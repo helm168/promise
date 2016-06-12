@@ -1,0 +1,22 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "A Promise/A+ implement",
+  "main": "promise.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helm168/promise.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "sunhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helm168/promise/issues"
+  },
+  "homepage": "https://github.com/helm168/promise#readme"
+}
